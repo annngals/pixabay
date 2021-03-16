@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pixabay</string>
+    <string name="photo">photo</string>
+    <string name="vector">vector</string>
+    <string name="illustration">illustration</string>
+    <string name="all">all</string>
+    <string name="request">dog</string>
+</resources>
